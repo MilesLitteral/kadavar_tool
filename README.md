@@ -13,3 +13,5 @@ Then proceed to start Blender, open User Preferences. You may search it by it's 
 Credits
 ==
 Programming Lead: Miles J. Litteral
+
+![alt text](http://ubuntuhandbook.org/wp-content/uploads/2013/11/Blender-Logo.png "Logo Title Text 2")
